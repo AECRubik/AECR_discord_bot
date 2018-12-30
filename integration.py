@@ -9,7 +9,7 @@ config.read('config.ini')
 TOKEN = config['DEFAULT'].get('token')
 SERVER_ID = config['DEFAULT'].get('id')
 TEST_USERS = {'Raúl Morales Hidalgo#8627': 'Raúl Morales Hidalgo',
-              'asierrayk#3400': 'Asier Cardoso Sánchez test',
+              'asierrayk#3400': 'Asier Cardoso Sánchez',
               'Alberto Masó Molina#2925': 'Alberto Masó Molina',
               'AlexO#2487': 'Alexander Olleta del Molino'}
 
